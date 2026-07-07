@@ -1,5 +1,7 @@
 ## Hi there! I'm Caden
-
+  <p align="center">
+    <img src="https://herokuapp.com" alt="Typing SVG" />
+  </p>
 <!--
 **CBrisko/CBrisko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

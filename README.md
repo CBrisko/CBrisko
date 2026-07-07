@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm Caden
 
 <!--
 **CBrisko/CBrisko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a passionate student currently studying Information Technology at Ensign College!
+
+I am currently working on multiple project, some of which include, Openclaw Integration, Magic Mirror deployment, and Arduino RGB light integration with Homekit via Home Assistant.
+
+I know languages such as: Arduino, C#, and Python. I am currently learning: SQL, HTML, and Swift

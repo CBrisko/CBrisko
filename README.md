@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 📝 I am currently working on multiple project, some of which include, Openclaw Integration, Magic Mirror deployment, and Arduino RGB light integration with Homekit via Home Assistant.
 
-#️⃣ I know languages such as: Arduino, C#, and Python. I am currently learning: SQL, HTML, and Swift
+#️⃣ I know languages such as: Arduino, C#, and Python. I am currently learning: SQL and Swift

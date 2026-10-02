@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📚 I am a passionate student currently studying Information Technology at Ensign College!
+📚 I am a passionate student currently studying Information Technology at Ensign College! I'm taking classes in Computer Networking, and Cloud Server Administration
 
-📝 I am currently working on multiple project, some of which include, Openclaw Integration, Magic Mirror deployment, and Arduino RGB light integration with Homekit via Home Assistant.
+📝 I am currently working on multiple personal projects, some of which include Openclaw Integration, Magic Mirror deployment, and Arduino RGB light integration with HomeKit via Home Assistant.
 
-#️⃣ I know languages such as: Arduino, C#, and Python. I am currently learning: SQL and Swift
+#️⃣ I know languages such as Arduino, C#, and Python. I am currently learning: SQL and Swift
